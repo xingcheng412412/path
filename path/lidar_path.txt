@@ -1,0 +1,9 @@
+//雷达的标定文件和主函数文件会出现opencv版本问题
+pip3 install opencv-python-headless
+
+//雷达需要的版本可能会和自己的环境出现冲突需要开虚拟环境
+python3 -m venv myenv
+source myenv/bin/activate
+
+//在厦门理工单目雷达中需要将增益值那里个注释掉一个在main.py一个在标定都要注释
+

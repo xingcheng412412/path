@@ -1,0 +1,30 @@
+//opencv下载
+https://itslinuxfoss.com/guide-install-opencv-ubuntu/
+
+//openvino下载
+https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/download.html?PACKAGE=OPENVINO_BASE&VERSION=v_2024_4_0&OP_SYSTEM=LINUX&DISTRIBUTION=PIP
+
+//zed下载
+https://blog.csdn.net/qq_44892836/article/details/122257542
+
+
+//显卡模式改变
+prime-select query
+sudo prime-select nvidia
+最后的输出要是nvidia
+
+//cuda更新
+https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
+
+//cudnn下载
+https://developer.nvidia.com/cudnn-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=22.04&target_type=deb_local
+
+//nvidia-smi问题
+https://blog.csdn.net/very_big_house/article/details/135626122
+
+//ros2安装
+https://blog.csdn.net/weixin_55944949/article/details/140373710
+
+//海康驱动安装
+https://blog.csdn.net/m0_51697446/article/details/130619977
+
